@@ -1,7 +1,1 @@
-yfinance>=0.2.65
-pandas>=1.3.0
-numpy>=1.16.5
-requests>=2.31
-matplotlib>=3.0.0
-seaborn>=0.11.0
-scikit-learn>=1.0.0
+pip install yfinance statsmodels scikit-learn tensorflow pmdarima pickle scipy itertools warnings

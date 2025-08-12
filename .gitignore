@@ -1,15 +1,7 @@
-# Ignore Python compiled files
-__pycache__/
-*.pyc
+# Virtual environment
+gmfvenv/
 
-# Ignore logs
-*.log
-
-# Ignore environment files
-.env
-
-# Ignore IDE/editor folders
-#data
-data/
+# VS Code settings
 .vscode/
-.idea/
+
+.github
